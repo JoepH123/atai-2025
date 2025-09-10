@@ -1,2 +1,3 @@
 data/CFD/grid/concat/*
 /env
+.python-version
