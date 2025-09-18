@@ -1,2 +1,6 @@
 data/CFD/grid/concat/*
 /.idea
+data/boids/processed/AR1_VAL_Boids.pt
+data/boids/processed/AR1_Boids.pt
+data/boids/processed/pre_filter.pt
+data/boids/processed/pre_transform.pt
